@@ -12,5 +12,5 @@ ___
 <img src="https://files.catbox.moe/i2141z.png" width=150> <a href="">Immortal Rentry (wip!)</a>
 </p>
 
-<img src="" width=150> <a href="">Nick Rentry (wip!)</a>
+<img src="https://files.catbox.moe/87pds0.png" width=150> <a href="">Nick Rentry (wip!)</a>
 </p>
