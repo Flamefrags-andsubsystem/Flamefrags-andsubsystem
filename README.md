@@ -3,19 +3,14 @@
 # Under making!
 ___
 
-
-<p align="center">
-<a href="">Flame Rentry (wip!)</a>
+<img src="https://files.catbox.moe/dybmli.png" width=150> <a href="">Flame Rentry (wip!)</a>
 </p>
 
-<p align="center">
-<a href="">Frags Rentry (wip!)</a>
+<img src="https://files.catbox.moe/3ky3uc.png" width=150> <a href="">Frags Rentry (wip!)</a>
 </p>
 
-<p align="center">
-<a href="">Immortal Rentry (wip!)</a>
+<img src="https://files.catbox.moe/i2141z.png" width=150> <a href="">Immortal Rentry (wip!)</a>
 </p>
 
-<p align="center">
-<a href="">Nick Rentry (wip!)</a>
+<img src="" width=150> <a href="">Nick Rentry (wip!)</a>
 </p>
