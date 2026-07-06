@@ -5,7 +5,7 @@
 <a href="https://flamesubsystem.straw.page"> Strawpage!
 ___
 
-<img src="https://files.catbox.moe/dybmli.png" width=150> <a href="https://rentry.co/Fl4meFire">Flame Rentry (wip!)</a>
+<img src="https://files.catbox.moe/dybmli.png" width=150> <a href="https://rentry.co/Fl4meFire">Flame Rentry</a>
 </p>
 
 <img src="https://files.catbox.moe/3ky3uc.png" width=150> <a href="">Frags Rentry (wip!)</a>
