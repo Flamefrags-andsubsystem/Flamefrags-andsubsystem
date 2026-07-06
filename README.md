@@ -16,3 +16,6 @@ ___
 
 <img src="https://files.catbox.moe/87pds0.png" width=150> <a href="">Nick Rentry (wip!)</a>
 </p>
+
+<img src="https://files.catbox.moe/zbo9wu.png" width=150> <a href="">Tiger Rentry (wip!)</a>
+</p>
