@@ -1,6 +1,8 @@
 <img src="https://files.catbox.moe/1lmmuv.jpg">
 
-# Under making!
+# Flame subsystem stuff
+
+<a href="https://flamesubsystem.straw.page"> Strawpage!
 ___
 
 <img src="https://files.catbox.moe/dybmli.png" width=150> <a href="">Flame Rentry (wip!)</a>
